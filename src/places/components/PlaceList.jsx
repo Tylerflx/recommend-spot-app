@@ -14,8 +14,6 @@ const PlaceList = (props) => {
       </div>
     );
   }
-  console.log(props.items);
-  console.log("Hello");
 
   return (
     <>

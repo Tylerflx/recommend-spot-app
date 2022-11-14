@@ -11,8 +11,8 @@ const DUMMY_PLACES = [
     imageUrl: "http://dummyimage.com/247x100.png/dddddd/000000",
     address: "84257 Kensington Circle",
     location: {
-      lat: 1.683061,
-      long: -77.072933,
+      lat: 40.7484405,
+      lng: -73.9878584,
     },
     creator: "uid1",
   },
@@ -24,8 +24,8 @@ const DUMMY_PLACES = [
     imageUrl: "http://dummyimage.com/193x100.png/cc0000/ffffff",
     address: "0950 Sullivan Drive",
     location: {
-      lat: 59.36296,
-      long: 18.1468001,
+      lat: 51.181012,
+      long: -15.676,
     },
     creator: "uid1",
   },
@@ -38,7 +38,7 @@ const DUMMY_PLACES = [
     address: "37 Oriole Hill",
     location: {
       lat: -12.7787793,
-      long: 45.2237713,
+      long: +45.2237713,
     },
     creator: "uid3",
   },
